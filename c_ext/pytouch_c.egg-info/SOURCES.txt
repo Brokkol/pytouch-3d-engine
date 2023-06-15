@@ -1,0 +1,6 @@
+pytouch_c.c
+setup.py
+pytouch_c.egg-info/PKG-INFO
+pytouch_c.egg-info/SOURCES.txt
+pytouch_c.egg-info/dependency_links.txt
+pytouch_c.egg-info/top_level.txt
